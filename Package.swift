@@ -3,7 +3,7 @@
 import PackageDescription
 import CompilerPluginSupport
 
-let llamaVersion = "b6871"
+let llamaVersion = "b7656"
 
 // MARK: - Package Dependencies
 
